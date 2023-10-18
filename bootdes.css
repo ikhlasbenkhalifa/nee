@@ -1,0 +1,22 @@
+
+@media screen and (max-width: 300px) {
+    .flexy{
+
+        position: absolute;
+        display: inline;
+    }
+    
+    .form-control{
+        text-align: right;
+        position: absolute;
+        left:1000px;
+        top: 20px;
+    }
+    .log{
+
+      
+        justify-content: space-between;
+
+    }
+   
+}
